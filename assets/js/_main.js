@@ -24,3 +24,4 @@ $(".about").click(function () {
 $(".close-about").click(function () {
   $("#about").css('display','');
 });
+
